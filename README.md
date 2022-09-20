@@ -2,4 +2,4 @@
 
 ## Objetivo:
 
-### criar e sustentar máquinas virtuais (VPC) na AWS usando AWS
+### Criar e sustentar máquinas virtuais (VPC) na AWS usando AWS
